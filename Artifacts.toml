@@ -1,0 +1,20 @@
+[[XicTools]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "82fc96e1ba3fb256340ae2bec7d2db2d8861b036"
+libc = "glibc"
+os = "linux"
+
+    [[XicTools.download]]
+    sha256 = "051e5d33c7107ce2ff85f04905ad7ddbea68e899274c4421d45882e6e4256e79"
+    url = "https://github.com/JuliaBinaryWrappers/XicTools_jll.jl/releases/download/XicTools-v4.3.19+0/XicTools.v4.3.19.x86_64-linux-gnu-cxx03.tar.gz"
+[[XicTools]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "765a052c59778016eb77756712fab300f85718d2"
+libc = "glibc"
+os = "linux"
+
+    [[XicTools.download]]
+    sha256 = "6cb0e8f931299b4e1f259e2614679688e144b88db80de722ff55cf4844785799"
+    url = "https://github.com/JuliaBinaryWrappers/XicTools_jll.jl/releases/download/XicTools-v4.3.19+0/XicTools.v4.3.19.x86_64-linux-gnu-cxx11.tar.gz"
